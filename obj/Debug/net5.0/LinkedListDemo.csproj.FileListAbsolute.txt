@@ -1,0 +1,16 @@
+E:\LinkedListDemo\obj\Debug\net5.0\LinkedListDemo.csproj.AssemblyReference.cache
+E:\LinkedListDemo\obj\Debug\net5.0\LinkedListDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\LinkedListDemo\obj\Debug\net5.0\LinkedListDemo.AssemblyInfoInputs.cache
+E:\LinkedListDemo\obj\Debug\net5.0\LinkedListDemo.AssemblyInfo.cs
+E:\LinkedListDemo\obj\Debug\net5.0\LinkedListDemo.csproj.CoreCompileInputs.cache
+E:\LinkedListDemo\bin\Debug\net5.0\LinkedListDemo.exe
+E:\LinkedListDemo\bin\Debug\net5.0\LinkedListDemo.deps.json
+E:\LinkedListDemo\bin\Debug\net5.0\LinkedListDemo.runtimeconfig.json
+E:\LinkedListDemo\bin\Debug\net5.0\LinkedListDemo.runtimeconfig.dev.json
+E:\LinkedListDemo\bin\Debug\net5.0\LinkedListDemo.dll
+E:\LinkedListDemo\bin\Debug\net5.0\ref\LinkedListDemo.dll
+E:\LinkedListDemo\bin\Debug\net5.0\LinkedListDemo.pdb
+E:\LinkedListDemo\obj\Debug\net5.0\LinkedListDemo.dll
+E:\LinkedListDemo\obj\Debug\net5.0\ref\LinkedListDemo.dll
+E:\LinkedListDemo\obj\Debug\net5.0\LinkedListDemo.pdb
+E:\LinkedListDemo\obj\Debug\net5.0\LinkedListDemo.genruntimeconfig.cache
